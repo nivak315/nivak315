@@ -6,9 +6,6 @@ Currently learning Advanced Django + REST APIs + DevOps tools.
 Looking to collaborate on open-source projects & innovative ideas.  
 Passionate about software development, problem solving, and building impactful projects.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamana&layout=compact&theme=radical)
-
 ## 🚀 About Me
 - 🔭 **Currently working on:** Full-stack applications with Django and React.  
 - 🌱 **Currently learning:** Advanced Django, REST APIs, and DevOps tools like Docker and AWS.  
