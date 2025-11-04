@@ -1,54 +1,67 @@
-![Waving Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,21&height=220&section=header&text=Kavin&fontSize=80&fontAlignY=38&animation=twinkling)
+# Hi there, I'm Kavin! 👋
 
-<div align="center">
+Enthusiastic developer exploring Web Development, Python, Django, and React.  
+Interested in Full-Stack Development & Cloud Technologies.  
+Currently learning Advanced Django + REST APIs + DevOps tools.  
+Looking to collaborate on open-source projects & innovative ideas.  
+Passionate about software development, problem solving, and building impactful projects.
 
-<br>
+## 🚀 About Me
+- 🔭 **Currently working on:** Full-stack applications with Django and React.  
+- 🌱 **Currently learning:** Advanced Django, REST APIs, and DevOps tools like Docker and AWS.  
+- 👯 **Open to collaborate on:** Open-source projects, innovative web apps, and cloud-based solutions.  
+- 💬 **Ask me about:** Python, JavaScript, full-stack development, or problem-solving challenges.  
+- ⚡ **Fun fact:** I love turning complex ideas into simple, user-friendly code!
 
-<img src="https://github-readme-stats.vercel.app/api?username=nivak315&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=nivak315&theme=dracula&hide_border=true" />
+## 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivak315&layout=donut-vertical&theme=dracula&hide_border=true&langs_count=8" />
+### Languages
+- Python
+- JavaScript
+- Java
 
-</div>
+### Frameworks & Libraries
+- Django
+- React
+- Redux
+- Bootstrap
 
-## 🔥 Blazing Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,redux,js,html,css,bootstrap,mysql,postgres,docker,aws,git,github,vscode,figma" />
-</p>
+### Databases & Tools
+- MySQL
+- PostgreSQL
+- SQLite
+- Git
+- GitHub
+- VS Code
 
-## 🚀 Featured Projects  
+## 🔥 Featured Projects
 
-<div align="center">
+### 1. **E-Commerce Web App**
+- Full-stack application built with Django and React.
+- Features: Shopping cart, secure checkout, order tracking, and user authentication.
+- [Live Demo](https://your-link-here) | [Repository](https://github.com/your-repo-link)
 
-| 🌟 E-Commerce Empire | 💼 Portfolio Pro | 📊 Expense Ninja |
-|----------------------|------------------|------------------|
-| ![Live](https://img.shields.io/badge/Live-Demo-00bfff?style=for-the-badge&logo=vercel) <br>Django + React + Stripe | ![Live](https://img.shields.io/badge/Live-Demo- success?style=for-the-badge&logo=netlify) <br>React + Framer | ![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=render) <br>Chart.js + DRF |
-| [Demo](https://ecom.kavin.dev) • [Code](https://github.com/kavin315/ecom) | [Demo](https://kavin.dev) • [Code](https://github.com/kavin315/portfolio) | [Demo](https://expense.kavin.dev) • [Code](https://github.com/kavin315/expense) |
+### 2. **Portfolio Website**
+- Personal portfolio showcasing projects, skills, and blog.
+- Built with React and Bootstrap for responsive design.
+- [Live Demo](https://your-link-here) | [Repository](https://github.com/your-repo-link)
 
-</div>
+### 3. **Expense Tracker**
+- Web app to track and visualize income/expenses with interactive charts.
+- Uses Python/Django backend and React frontend with Chart.js.
+- [Live Demo](https://your-link-here) | [Repository](https://github.com/your-repo-link)
 
-## ⚡ Fun Facts
-- ☕ 3 coffees → 1 `print("Hello")`  
-- 🎮 Built Tic-Tac-Toe AI that beats 98% humans  
-- 🏆 1st prize National Hackathon 2025  
+## 📫 Connect With Me
+- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com) *(add if comfortable)*
+- 🌐 **Portfolio:** [your-website.com](https://your-website.com) *(add if available)*
+- 🐦 **Twitter/X:** [@your-handle](https://twitter.com/your-handle) *(add if available)*
+- 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile) *(add if available)*
 
-## 📬 Let’s Build Together
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kavin-real)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:kavin.real@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/kavin_codes)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavin315&color=ff6b6b&style=for-the-badge&label=VIEWS" />
-  <img src="https://img.shields.io/github/stars/kavin315?color=yellow&style=for-the-badge" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,21&height=120&section=footer"/>
+Feel free to check out my other repositories and leave a star ⭐ if you like any project!  
+Let's connect and build something amazing together.
 
 ---
-*Last updated: Nov 2025 | Built with ❤️ in 60 seconds*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gamana&color=ff6b6b)
+
+*This profile README is inspired by awesome open-source templates. Last updated: October 13, 2025.*
