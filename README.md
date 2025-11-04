@@ -4,8 +4,8 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavin315&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavin315&theme=dracula&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=nivak315&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivak315&theme=dracula&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin315&layout=donut-vertical&theme=dracula&hide_border=true&langs_count=8" />
 
