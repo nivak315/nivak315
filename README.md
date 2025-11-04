@@ -1,4 +1,4 @@
-# Hi there, I'm Gamana! 👋
+# Hi there, I'm Kavin! 👋
 
 Enthusiastic developer exploring Web Development, Python, Django, and React.  
 Interested in Full-Stack Development & Cloud Technologies.  
