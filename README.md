@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,1:ff8e53&height=200&section=header&text=Hi%20There%20👋&fontSize=60)
 
-## 🚀 I'm [Your Name]
-🌱 Final-year CSE student | Python • HTML • SQL  
+## 🚀 I'm Kavin 
 🔭 Building Petrol-Bunk App & Portfolio  
 ⚡ Fun fact: I turn coffee into code ☕
 
